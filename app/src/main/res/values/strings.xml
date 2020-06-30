@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">practical_1_2_b</string>
+    <string name="bryan_text">Bryan</string>
+    <string name="count.text">Count</string>
+    <string name="zero">0</string>
+    <string name="toast_message">Hello, Bryan</string>
+    <string name="zero.text">zero</string>
+</resources>
